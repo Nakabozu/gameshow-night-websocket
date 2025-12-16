@@ -1,16 +1,19 @@
 {
-	"name": "vtuber-avatars-websockets",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"start": "index.js"
-	},
-	"type": "module",
-	"dependencies": {
-		"cors": "^2.8.5",
-		"express": "^4.19.1",
-		"http": "^0.0.1-security",
-		"https": "^1.0.0",
-		"socket.io": "^4.7.2"
-	}
+    "name": "vtuber-avatars-websockets",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "index.js"
+    },
+    "type": "module",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.19.1",
+        "http": "^0.0.1-security",
+        "https": "^1.0.0",
+        "socket.io": "^4.7.2"
+    },
+    "prettier": {
+        "tabWidth": 4
+    }
 }
