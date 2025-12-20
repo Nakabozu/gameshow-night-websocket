@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "private": true,
     "scripts": {
-        "start": "index.js"
+        "start": "node index.js"
     },
     "type": "module",
     "dependencies": {
@@ -11,7 +11,7 @@
         "express": "^4.19.1",
         "http": "^0.0.1-security",
         "https": "^1.0.0",
-        "socket.io": "^4.7.2"
+        "socket.io": "^4.8.1"
     },
     "prettier": {
         "tabWidth": 4
